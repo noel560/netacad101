@@ -11,7 +11,7 @@ export default function Almodul71() {
   return (
     <div className="
       min-h-screen 
-      bg-gradient-to-br from-gray-50 via-gray-100 to-gray-200 
+      bg-linear-to-br from-gray-50 via-gray-100 to-gray-200 
       dark:from-[#0d1117] dark:via-[#0a0e15] dark:to-[#05070f] 
       text-gray-900 dark:text-white
       transition-colors duration-300
@@ -40,7 +40,7 @@ export default function Almodul71() {
 
           <h1 className="
             text-3xl sm:text-4xl md:text-5xl font-bold tracking-tight 
-            bg-gradient-to-r from-blue-600 to-cyan-600 
+            bg-linear-to-r from-blue-600 to-cyan-600 
             dark:from-blue-400 dark:to-cyan-400 
             bg-clip-text text-transparent mb-4
           ">
@@ -76,7 +76,7 @@ export default function Almodul71() {
             <div className="overflow-x-auto my-8">
               <table className="min-w-full border-collapse rounded-xl overflow-hidden border border-gray-200 dark:border-gray-700 shadow-sm">
                 <thead>
-                  <tr className="bg-gradient-to-r from-gray-100 to-gray-200 dark:from-gray-800 dark:to-gray-900">
+                  <tr className="bg-linear-to-r from-gray-100 to-gray-200 dark:from-gray-800 dark:to-gray-900">
                     <th className="border border-gray-300 dark:border-gray-700 px-6 py-4 text-left font-semibold text-gray-800 dark:text-gray-200">
                       Decimális
                     </th>
