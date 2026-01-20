@@ -49,7 +49,6 @@ export const modules: ModuleInfo[] = [
     slug: "6",
     title: "6. modul",
     description: "Adatkapcsolati réteg: keretek, MAC-címek és hibajavítás alapjai",
-    off: true,
   },
   {
     id: 7,
